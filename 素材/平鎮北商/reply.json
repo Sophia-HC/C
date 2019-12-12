@@ -1,9 +1,7 @@
 # 最多可存5則消息
 [
 {
-  "type": "image",
-  "originalContentUrl": "https://imgur.com/FaLhl9f.jpg",
-  "previewImageUrl": "https://imgur.com/FaLhl9f.jpg",
-  "animated": false
+  "type": "text",
+  "text": "那邊很荒涼 沒有東西可以吃 但能曬太陽"
 }    
 ]
