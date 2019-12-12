@@ -1,4 +1,4 @@
-{
+[{
   "type": "template",
   "altText": "this is a buttons template",
   "template": {
@@ -28,4 +28,4 @@
     "title": "換選單",
     "text": "按下面的按鍵更換選單"
   }
-}
+}]
