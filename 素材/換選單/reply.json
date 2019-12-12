@@ -1,0 +1,34 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "更換成圖文選單B",
+        "data": "menu=rich_menu_b"
+      },
+      {
+        "type": "message",
+        "label": "動作 2",
+        "text": "動作 2"
+      },
+      {
+        "type": "message",
+        "label": "動作 3",
+        "text": "動作 3"
+      },
+      {
+        "type": "message",
+        "label": "動作 4",
+        "text": "動作 4"
+      }
+    ],
+    "title": "換選單",
+    "text": "按下面的按鍵更換選單"
+  }
+}
+    
+]
